@@ -1,0 +1,109 @@
+/* LIGNE 8 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(8) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(8) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zSUt4Q1qJW8_NoptikuujTxSlHqviolVBQ&s");}
+
+section .b tr:nth-child(8) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.madeintissus.fr/26016-product_miniature/tissu-plumetis-vle-de-coton-noir.jpg");}
+    
+section .b tr:nth-child(8) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/vecteurs-libre/texture-fond-noir_78370-339.jpg");}
+
+section .b tr:nth-child(8) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");}
+    
+section .b tr:nth-child(8) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84=");}
+
+section .b tr:nth-child(8) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg");}
+
+section .b tr:nth-child(8) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format");}
+
+section .b tr:nth-child(8) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://pierinelli.com/wp-content/uploads/2024/07/granito_negro_absoluto-600x900.png");}
+
+section .b tr:nth-child(8) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg");}
+
+section .b tr:nth-child(8) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");}
+
+section .b tr:nth-child(8) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://lh6.googleusercontent.com/proxy/YOwIr-oXbZ7YrTllrg6mPlacmwy8PAlF0S42jYzIlteCh34wFrs_D_zHNIeoBp36IMPG1o8enR4pDe2UoJW_zdO9zfK-A4IgHciWPX-iS2rxZv9n0r2pjYo-1cXBuoQ9-yPvLIHmLf5VNWuNqzRiQXJrX64P1YKPtYY4bGKgYg");}
+
+section .b tr:nth-child(8) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg");}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 8 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(8) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(8) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(8) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(8) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(8) th:nth-child(12){
+    background-color: var(--color-main-nav); }

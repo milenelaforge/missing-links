@@ -1,0 +1,116 @@
+/* LIGNE 4 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+
+section .a tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .a tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .a tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .a tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main);
+    background-image: url("https://www.mlporcelaine.ch/images/stories/virtuemart/product/Noir_mat_4e00a48cde82c.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main);
+    background-image: url("https://pierinelli.com/wp-content/uploads/2024/07/granito_negro_absoluto-600x900.png");
+}
+
+section .a tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-main);
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-main);
+    background-image: url("https://www.cupastone.pt/wp-content/uploads/sites/4/2022/05/NEGRO_ABSOLUTO_PRODUCTO_WEB.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-main);
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-main);
+    background-image: url("https://st2.depositphotos.com/4653319/8728/i/450/depositphotos_87285818-stock-photo-black-and-white-ornament-m.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(12){
+    background-color: var(--color-main);
+    background-image: url("https://www.artmania.fr/353808-home_default/bombe-de-peinture-gold-acrylique-coke-g7090-400ml-montana-cans.jpg");
+}
+
+section .a tr:nth-child(4) th:nth-child(13){
+    background-color: var(--color-main);
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");
+}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 4 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(4) th:nth-child(13){
+    background-color: var(--color-main-nav); }

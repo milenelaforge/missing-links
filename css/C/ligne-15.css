@@ -1,0 +1,100 @@
+/* LIGNE 15 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(15) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+    
+section .c tr:nth-child(15) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(15) th:nth-child(3){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .c tr:nth-child(15) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .c tr:nth-child(15) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+section .c tr:nth-child(15) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .c tr:nth-child(15) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+        
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(15) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg"); }
+
+section .c tr:nth-child(15) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU"); }
+
+section .c tr:nth-child(15) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg"); }
+
+section .c tr:nth-child(15) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg"); }
+
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 15 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(15) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(2){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(3){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(15) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(15) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+
+

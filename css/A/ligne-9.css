@@ -1,0 +1,116 @@
+/* LIGNE 9 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+section .a tr:nth-child(9) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .a tr:nth-child(9) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .a tr:nth-child(9) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+    
+section .a tr:nth-child(9) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .a tr:nth-child(9) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .a tr:nth-child(9) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .a tr:nth-child(9) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(9) th:nth-child(1){
+    background-color: var(--color-main);
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg");
+}
+
+section .a tr:nth-child(9) th:nth-child(2){
+    background-color: var(--color-main);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLard2CbeolpJYe1nGsxfNHHGTyw6DcU6uI0OaLo7jxY0bydX793yzUrnGX8ABR7GQkY&usqp=CAU");
+}
+
+section .a tr:nth-child(9) th:nth-child(3){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84=");
+}
+
+section .a tr:nth-child(9) th:nth-child(11){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0=");
+}
+
+section .a tr:nth-child(9) th:nth-child(12){
+    background-color: var(--color-main);
+    background-image: url("https://storage.googleapis.com/support-forums-api/attachment/thread-326615500-7438788326326544682.png");
+}
+
+section .a tr:nth-child(9) th:nth-child(13){
+    background-color: var(--color-main);
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format");
+}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 9 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+nav .a tr:nth-child(9) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(9) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(9) th:nth-child(13){
+    background-color: var(--color-main-nav); }

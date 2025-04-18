@@ -1,0 +1,95 @@
+/* LIGNE 13 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(13) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(13) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zSUt4Q1qJW8_NoptikuujTxSlHqviolVBQ&s"); }
+
+section .c tr:nth-child(13) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/formes-texture-fond-geometrique-abstrait_1194-301824.jpg"); }
+
+section .c tr:nth-child(13) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0="); }
+
+section .c tr:nth-child(13) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg"); }
+
+section .c tr:nth-child(13) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://www.gali-art.com/img/cms/Noir.jpg"); }
+
+section .c tr:nth-child(13) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg"); }
+
+section .c tr:nth-child(13) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format"); }
+
+section .c tr:nth-child(13) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://www.madeintissus.fr/26016-product_miniature/tissu-plumetis-vle-de-coton-noir.jpg"); }
+
+section .c tr:nth-child(13) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/plancher-bois-noir_53876-89522.jpg?semt=ais_hybrid&w=740"); }
+
+section .c tr:nth-child(13) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84="); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 13 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(13) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(13) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(13) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+

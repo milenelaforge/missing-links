@@ -1,0 +1,98 @@
+/* LIGNE 6 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+section .c tr:nth-child(6) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(6) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .c tr:nth-child(6) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .c tr:nth-child(6) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .c tr:nth-child(6) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .c tr:nth-child(6) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .c tr:nth-child(6) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+section .c tr:nth-child(6) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(6) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://www.madeintissus.fr/26016-product_miniature/tissu-plumetis-vle-de-coton-noir.jpg"); }
+
+section .c tr:nth-child(6) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.mlporcelaine.ch/images/stories/virtuemart/product/Noir_mat_4e00a48cde82c.jpg"); }
+
+section .c tr:nth-child(6) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLard2CbeolpJYe1nGsxfNHHGTyw6DcU6uI0OaLo7jxY0bydX793yzUrnGX8ABR7GQkY&usqp=CAU"); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 6 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+nav .c tr:nth-child(6) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(6) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(6) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+

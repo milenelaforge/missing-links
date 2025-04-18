@@ -1,0 +1,98 @@
+/* LIGNE 7 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+section .c tr:nth-child(7) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .c tr:nth-child(7) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .c tr:nth-child(7) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .c tr:nth-child(7) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(7) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+section .c tr:nth-child(7) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .c tr:nth-child(7) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .c tr:nth-child(7) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+        
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(7) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU"); }
+
+section .c tr:nth-child(7) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg"); }
+
+section .c tr:nth-child(7) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-premium/ressource-graphique-fond-effet-marbre-colore_236836-8073.jpg?semt=ais_hybrid"); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 7 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+nav .c tr:nth-child(7) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(7) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(7) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+

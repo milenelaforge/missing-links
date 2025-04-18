@@ -1,0 +1,249 @@
+@import 'A/ligne-1.css';   @import 'A/ligne-2.css';   @import 'A/ligne-3.css';
+@import 'A/ligne-4.css';   @import 'A/ligne-5.css';   @import 'A/ligne-6.css';
+@import 'A/ligne-7.css';   @import 'A/ligne-8.css';   @import 'A/ligne-9.css';
+@import 'A/ligne-10.css';  @import 'A/ligne-11.css';  @import 'A/ligne-12.css';
+@import 'A/ligne-13.css';  @import 'A/ligne-14.css';  @import 'A/ligne-15.css';
+
+
+/* LETTRE B --------------------------*/
+/*------------------------------------*/
+
+@import 'B/ligne-1.css';   @import 'B/ligne-2.css';   @import 'B/ligne-3.css';
+@import 'B/ligne-4.css';   @import 'B/ligne-5.css';   @import 'B/ligne-6.css';
+@import 'B/ligne-7.css';   @import 'B/ligne-8.css';   @import 'B/ligne-9.css';
+@import 'B/ligne-10.css';  @import 'B/ligne-11.css';  @import 'B/ligne-12.css';
+@import 'B/ligne-13.css';  @import 'B/ligne-14.css';  @import 'B/ligne-15.css';
+@import 'B/ligne-16.css';  @import 'B/ligne-17.css';  @import 'B/ligne-18.css';
+@import 'B/ligne-19.css';  @import 'B/ligne-20.css'; 
+
+/* LETTRE C --------------------------*/
+/*------------------------------------*/
+
+@import 'C/ligne-1.css';   @import 'C/ligne-2.css';   @import 'C/ligne-3.css';
+@import 'C/ligne-4.css';   @import 'C/ligne-5.css';   @import 'C/ligne-6.css';
+@import 'C/ligne-7.css';   @import 'C/ligne-8.css';   @import 'C/ligne-9.css';
+@import 'C/ligne-10.css';  @import 'C/ligne-11.css';  @import 'C/ligne-12.css';
+@import 'C/ligne-13.css';  @import 'C/ligne-14.css';  @import 'C/ligne-15.css';
+
+
+:root {
+   --color-main: grey; 
+   --color-second:black; 
+   --color-third:dimgrey; 
+   --color-main-nav: black; 
+   --color-second-nav: darkgrey; 
+}
+
+
+/*GLOBAL -----------------------------*/
+/*------------------------------------*/
+html, body, * {
+   margin: 0;
+   padding:0;
+}
+
+body {
+   background-color: var(--color-main);
+   font-family: sans-serif;
+}
+
+html, body{
+   height:100vh;
+   max-height:100vh;
+   overflow:hidden;
+}
+
+
+
+/*TYPOGRAPHIES -----------------------*/
+/*------------------------------------*/
+h1{
+   font-weight:normal;
+   text-transform:uppercase;
+   font-size:18px;
+   font-family:sans-serif;
+}
+
+a{
+   color:inherit;
+}
+
+span{
+   font-size:12px;
+
+}
+
+/*MENU--------------------------------*/
+/*------------------------------------*/
+nav {
+   height:3vh;
+   width:92vw;
+   background-color: var(--color-main);
+   border-bottom:1px solid var(--color-second);
+   padding:2.5vh 4vw;
+   display:flex;
+   justify-content: space-between;
+   position:fixed;
+   top:0;
+   z-index:2;
+}
+
+nav h1{
+}
+
+nav .demo{
+   position:relative;
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+nav .demo img{
+   height:4vh;
+}
+
+
+.model{
+   position: fixed;
+   left: 0vw;
+   width: 100vw;
+   top:calc(8vh + 1px);
+   height:92vh;
+   padding: 0vh;
+   background-color:var(--color-second-nav);
+   opacity:0;
+   display:flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: flex-end;
+   height:82vh;
+   padding-bottom:10vh;
+   z-index:3;
+}
+
+#open-model:checked ~ .model {
+   right: 0;
+   opacity:0.8;
+}
+
+#open-model + label .model-nochecked { display: block; cursor: pointer;}
+#open-model + label .model-checked { display: none; cursor: pointer;}
+
+#open-model:checked + label .model-nochecked { display: none; }
+#open-model:checked + label .model-checked { display: block; }
+
+
+.infos{
+   position: fixed;
+   left: 0vw;
+   width: 100vw;
+   top:calc(8vh + 1px);
+   height:82vh;
+   padding: 0vh;
+   background-color:var(--color-second-nav);
+   opacity:0;
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+   height:82vh;
+   padding-bottom:10vh;
+   padding-top:10vh;
+   z-index:4;
+   overflow-y:scroll;
+}
+
+.infos p, .infos ul{
+   width:50vw;
+}
+
+.infos ul{
+   margin:2vh;
+   list-style-type: "- ";
+   padding-left:1.5vw;
+}
+
+nav .demo .infos img{
+   height:2vh;
+   padding-top:1vh;
+}
+
+#open-infos:checked ~ .infos {
+   right: 0;
+   opacity:0.9;
+}
+
+
+#open-infos + label .span-nochecked { display: block; cursor: pointer;}
+#open-infos + label .span-checked { display: none; cursor: pointer;}
+
+#open-infos:checked + label .span-nochecked { display: none; }
+#open-infos:checked + label .span-checked { display: block; }
+
+
+
+/* CETTE PARTIE EST RÉPÉTÉE EN DESSOUS */
+nav table tr th{
+   border: 1px solid yellow;
+   width:2vw;
+   min-width:2vw;
+   height:2vw;
+   min-height:2vw;
+   color:var(--color-second);
+   background-size: cover;
+}
+
+
+/*SECTION PRINCIPALE--------------------------------*/
+/*--------------------------------------------------*/
+
+/* LETTRE A --------------------------*/
+/*------------------------------------*/
+
+
+
+section{
+   display:flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: flex-end;
+   height:82vh;
+   padding-bottom:10vh;
+   position:absolute;
+   width:100vw;
+   top:8vh;
+   z-index:1;
+}
+
+
+table{
+   border : 1px solid var(--color-third);
+   border-collapse: collapse;
+}
+
+table tr th{
+   border: 1px solid var(--color-third);
+   width:2vw;
+   min-width:2vw;
+   height:2vw;
+   min-height:2vw;
+   color:var(--color-second);
+   background-size: cover;
+}
+
+/* CETTE PARTIE EST RÉPÉTÉE */
+nav table tr th{
+   border: 0px;
+   width:calc(1px + 2vw);
+   min-width:2vw;
+   height:calc(1px + 2vw);
+   min-height:2vw;
+   color:var(--color-second);
+   background-size: cover;
+}
+
+nav table{
+   border : 1px solid var(--color-second-nav);
+   border-collapse: collapse;
+}
+
+

@@ -1,0 +1,109 @@
+/* LIGNE 12 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .b tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .b tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+    
+section .b tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .b tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .b tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .b tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://emotions-numeriques.com/wp-content/uploads/2017/04/srjc9512.jpg?w=640");}
+
+section .b tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/vecteurs-libre/texture-fond-noir_78370-339.jpg");}
+    
+section .b tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-premium/ressource-graphique-fond-effet-marbre-colore_236836-8073.jpg?semt=ais_hybrid");}
+
+section .b tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg");}
+
+section .b tr:nth-child(12) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");}
+
+section .b tr:nth-child(12) th:nth-child(13){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLard2CbeolpJYe1nGsxfNHHGTyw6DcU6uI0OaLo7jxY0bydX793yzUrnGX8ABR7GQkY&usqp=CAU");}
+
+/* MODEL -----------------------------*/
+/* LIGNE 12 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(12) th:nth-child(13){
+    background-color: var(--color-main-nav); }

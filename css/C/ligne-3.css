@@ -1,0 +1,94 @@
+/* LIGNE 3 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(3) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(3) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg"); }
+
+section .c tr:nth-child(3) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0="); }
+
+section .c tr:nth-child(3) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg"); }
+
+section .c tr:nth-child(3) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://storage.googleapis.com/support-forums-api/attachment/thread-326615500-7438788326326544682.png"); }
+
+section .c tr:nth-child(3) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3"); }
+
+section .c tr:nth-child(3) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format"); }
+
+section .c tr:nth-child(3) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg"); }
+
+section .c tr:nth-child(3) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeYTYeIiXoRZy777q24G0Pd7j0NIHibBP0tp6Loy_YzXVod6mBlSH5Lx_ywBapxhhIxA&usqp=CAU"); }
+
+section .c tr:nth-child(3) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://pierinelli.com/wp-content/uploads/2024/07/granito_negro_absoluto-600x900.png"); }
+
+section .c tr:nth-child(3) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg"); }
+
+/* MODEL -----------------------------*/
+/* LIGNE 3 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(3) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(3) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(3) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+

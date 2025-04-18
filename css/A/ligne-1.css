@@ -1,0 +1,112 @@
+/* LIGNE 1 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(1) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+
+section .a tr:nth-child(1) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+
+section .a tr:nth-child(1) th:nth-child(3){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+
+section .a tr:nth-child(1) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+
+section .a tr:nth-child(1) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+
+section .a tr:nth-child(1) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(1) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://www.madeintissus.fr/26016-product_miniature/tissu-plumetis-vle-de-coton-noir.jpg");}
+
+section .a tr:nth-child(1) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");}
+
+section .a tr:nth-child(1) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");}
+
+section .a tr:nth-child(1) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zSUt4Q1qJW8_NoptikuujTxSlHqviolVBQ&s");}
+
+section .a tr:nth-child(1) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://lh6.googleusercontent.com/proxy/YOwIr-oXbZ7YrTllrg6mPlacmwy8PAlF0S42jYzIlteCh34wFrs_D_zHNIeoBp36IMPG1o8enR4pDe2UoJW_zdO9zfK-A4IgHciWPX-iS2rxZv9n0r2pjYo-1cXBuoQ9-yPvLIHmLf5VNWuNqzRiQXJrX64P1YKPtYY4bGKgYg");}
+
+section .a tr:nth-child(1) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg");}
+
+section .a tr:nth-child(1) th:nth-child(13){
+    background-color: var(--color-main); 
+    background-image: url("https://www.gali-art.com/img/cms/Noir.jpg");}
+
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 1 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(1) th:nth-child(1){
+    background-color: var(--color-second-nav);}
+
+nav .a tr:nth-child(1) th:nth-child(2){
+    background-color: var(--color-second-nav);}
+
+nav .a tr:nth-child(1) th:nth-child(3){
+    background-color: var(--color-second-nav);}
+
+nav .a tr:nth-child(1) th:nth-child(4){
+    background-color: var(--color-second-nav);}
+
+nav .a tr:nth-child(1) th:nth-child(9){
+    background-color: var(--color-second-nav);}
+
+nav .a tr:nth-child(1) th:nth-child(10){
+    background-color: var(--color-second-nav);}
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(1) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(1) th:nth-child(13){
+    background-color: var(--color-main-nav); }
+

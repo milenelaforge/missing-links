@@ -1,0 +1,109 @@
+/* LIGNE 7 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(7) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .b tr:nth-child(7) th:nth-child(12){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .b tr:nth-child(7) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(7) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/formes-texture-fond-geometrique-abstrait_1194-301824.jpg");}
+
+section .b tr:nth-child(7) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://s.tmimgcdn.com/scr/800x500/297400/texture-de-fond-noir-fonce_297412-original.jpg");}
+    
+section .b tr:nth-child(7) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/plancher-bois-noir_53876-89522.jpg?semt=ais_hybrid&w=740");}
+
+section .b tr:nth-child(7) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-black-background-light-simple-image_556933.jpg");}
+
+section .b tr:nth-child(7) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg");}
+
+section .b tr:nth-child(7) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg");}
+
+section .b tr:nth-child(7) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://www.gali-art.com/img/cms/Noir.jpg");}
+
+section .b tr:nth-child(7) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg");}
+    
+section .b tr:nth-child(7) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://lh6.googleusercontent.com/proxy/YOwIr-oXbZ7YrTllrg6mPlacmwy8PAlF0S42jYzIlteCh34wFrs_D_zHNIeoBp36IMPG1o8enR4pDe2UoJW_zdO9zfK-A4IgHciWPX-iS2rxZv9n0r2pjYo-1cXBuoQ9-yPvLIHmLf5VNWuNqzRiQXJrX64P1YKPtYY4bGKgYg");}
+
+section .b tr:nth-child(7) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 7 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(7) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(12){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(7) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(7) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(7) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(7) th:nth-child(11){
+    background-color: var(--color-main-nav); }

@@ -1,0 +1,93 @@
+/* LIGNE 2 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(2) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+section .c tr:nth-child(2) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(2) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(2) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://emotions-numeriques.com/wp-content/uploads/2017/04/srjc9512.jpg?w=640"); }
+
+section .c tr:nth-child(2) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/vecteurs-libre/texture-fond-noir_78370-339.jpg");}
+
+section .c tr:nth-child(2) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-premium/ressource-graphique-fond-effet-marbre-colore_236836-8073.jpg?semt=ais_hybrid");}
+
+section .c tr:nth-child(2) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg");}
+
+section .c tr:nth-child(2) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");}
+
+section .c tr:nth-child(2) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLard2CbeolpJYe1nGsxfNHHGTyw6DcU6uI0OaLo7jxY0bydX793yzUrnGX8ABR7GQkY&usqp=CAU");}
+
+section .c tr:nth-child(2) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://www.mlporcelaine.ch/images/stories/virtuemart/product/Noir_mat_4e00a48cde82c.jpg");}
+
+section .c tr:nth-child(2) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84=");}
+
+/* MODEL -----------------------------*/
+/* LIGNE 2 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(2) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(2){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(2) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(2) th:nth-child(10){
+    background-color: var(--color-main-nav); }

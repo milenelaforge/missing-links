@@ -1,0 +1,93 @@
+/* LIGNE 4 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .c tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .c tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+section .c tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+    
+section .c tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.cupastone.pt/wp-content/uploads/sites/4/2022/05/NEGRO_ABSOLUTO_PRODUCTO_WEB.jpg"); }
+
+section .c tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg"); }
+
+section .c tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/4653319/8728/i/450/depositphotos_87285818-stock-photo-black-and-white-ornament-m.jpg"); }
+
+section .c tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://www.artmania.fr/353808-home_default/bombe-de-peinture-gold-acrylique-coke-g7090-400ml-montana-cans.jpg"); }
+
+section .c tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg"); }
+
+section .c tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg"); }
+
+/* MODEL -----------------------------*/
+/* LIGNE 4 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-main-nav); }

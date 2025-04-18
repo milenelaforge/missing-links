@@ -1,0 +1,110 @@
+/* LIGNE 4 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .b tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .b tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .b tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .b tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+    
+section .b tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+section .b tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .b tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .b tr:nth-child(4) th:nth-child(12){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .b tr:nth-child(4) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3");}
+
+section .b tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://storage.googleapis.com/support-forums-api/attachment/thread-326615500-7438788326326544682.png");}
+    
+section .b tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg");}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 4 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(4) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(12){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(4) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(4) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(4) th:nth-child(3){
+    background-color: var(--color-main-nav); }

@@ -1,0 +1,109 @@
+/* LIGNE 14 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(14) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .b tr:nth-child(14) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+section .b tr:nth-child(14) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .b tr:nth-child(14) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .b tr:nth-child(14) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .b tr:nth-child(14) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .b tr:nth-child(14) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(14) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3");}
+
+section .b tr:nth-child(14) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format");}
+    
+section .b tr:nth-child(14) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg");}
+
+section .b tr:nth-child(14) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeYTYeIiXoRZy777q24G0Pd7j0NIHibBP0tp6Loy_YzXVod6mBlSH5Lx_ywBapxhhIxA&usqp=CAU");}
+
+section .b tr:nth-child(14) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://pierinelli.com/wp-content/uploads/2024/07/granito_negro_absoluto-600x900.png");}
+
+section .b tr:nth-child(14) th:nth-child(13){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg");}
+    
+/* MODEL -----------------------------*/
+/* LIGNE 14 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(14) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(14) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(14) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(14) th:nth-child(13){
+    background-color: var(--color-main-nav); }

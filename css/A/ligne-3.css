@@ -1,0 +1,120 @@
+/* LIGNE 3 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(3) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(3) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");
+}
+
+section .a tr:nth-child(3) th:nth-child(3){
+    background-color: var(--color-main);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLard2CbeolpJYe1nGsxfNHHGTyw6DcU6uI0OaLo7jxY0bydX793yzUrnGX8ABR7GQkY&usqp=CAU");
+}
+
+section .a tr:nth-child(3) th:nth-child(4){
+    background-color: var(--color-main);
+    background-image: url("https://www.mlporcelaine.ch/images/stories/virtuemart/product/Noir_mat_4e00a48cde82c.jpg");
+}
+
+section .a tr:nth-child(3) th:nth-child(5){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84=");
+}
+
+section .a tr:nth-child(3) th:nth-child(6){
+    background-color: var(--color-main);
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg");
+}
+
+section .a tr:nth-child(3) th:nth-child(7){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0=");
+}
+
+section .a tr:nth-child(3) th:nth-child(8){
+    background-color: var(--color-main);
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg");
+}
+
+section .a tr:nth-child(3) th:nth-child(9){
+    background-color: var(--color-main);
+    background-image: url("https://storage.googleapis.com/support-forums-api/attachment/thread-326615500-7438788326326544682.png");
+}
+
+section .a tr:nth-child(3) th:nth-child(10){
+    background-color: var(--color-main);
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3");
+}
+
+section .a tr:nth-child(3) th:nth-child(11){
+    background-color: var(--color-main);
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format");
+}
+
+section .a tr:nth-child(3) th:nth-child(12){
+    background-color: var(--color-main);
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg");
+}
+
+section .a tr:nth-child(3) th:nth-child(13){
+    background-color: var(--color-main);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeYTYeIiXoRZy777q24G0Pd7j0NIHibBP0tp6Loy_YzXVod6mBlSH5Lx_ywBapxhhIxA&usqp=CAU");
+}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 3 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(3) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(3) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(3) th:nth-child(13){
+    background-color: var(--color-main-nav); }

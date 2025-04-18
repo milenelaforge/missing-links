@@ -1,0 +1,110 @@
+/* LIGNE 12 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .a tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://static.wikia.nocookie.net/colors/images/6/6a/Gray_-808080.png/revision/latest/thumbnail/width/360/height/450?cb=20240706224524");}
+    
+section .a tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+    
+section .a tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .a tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main);
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg"); }
+
+section .a tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main);
+    background-image: url("https://assetstools.cosentino.com/api/v1/bynder/color/MCK/detalle/MCK-thumb.jpg?w=988&h=868&q=80,format&fit=crop&auto=format"); }
+
+section .a tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-main);
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3"); }
+
+section .a tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-main);
+    background-image: url("https://storage.googleapis.com/support-forums-api/attachment/thread-326615500-7438788326326544682.png"); }
+ 
+section .a tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-main);
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg"); }
+
+section .a tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0="); }
+
+section .a tr:nth-child(12) th:nth-child(12){
+    background-color: var(--color-main);
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg"); }
+
+section .a tr:nth-child(12) th:nth-child(13){
+    background-color: var(--color-main);
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84="); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 12 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+    
+nav .a tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(12) th:nth-child(13){
+    background-color: var(--color-main-nav); }

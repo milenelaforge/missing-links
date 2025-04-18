@@ -1,0 +1,97 @@
+/* LIGNE 12 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+section .c tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .c tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://img.freepik.com/photos-premium/resume-gris_1134661-11311.jpg?semt=ais_hybrid&w=740");}
+    
+section .c tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg"); }
+
+section .c tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://www.cupastone.pt/wp-content/uploads/sites/4/2022/05/NEGRO_ABSOLUTO_PRODUCTO_WEB.jpg"); }
+
+section .c tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg"); }
+
+section .c tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://pierinelli.com/wp-content/uploads/2024/07/granito_negro_absoluto-600x900.png"); }
+    
+section .c tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://emotions-numeriques.com/wp-content/uploads/2017/04/srjc9512.jpg?w=640"); }
+
+section .c tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://wallpaper.forfun.com/fetch/cc/cc7b0dd8597c8bf85417a376c98fce3d.jpeg"); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 12 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(12) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(12) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+    
+nav .c tr:nth-child(12) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(12) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+

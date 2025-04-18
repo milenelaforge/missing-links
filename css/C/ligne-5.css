@@ -1,0 +1,97 @@
+/* LIGNE 5 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+section .c tr:nth-child(5) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+section .c tr:nth-child(5) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+    
+section .c tr:nth-child(5) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .c tr:nth-child(5) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .c tr:nth-child(5) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .c tr:nth-child(5) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(5) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg"); }
+
+section .c tr:nth-child(5) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg"); }
+
+section .c tr:nth-child(5) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://lh6.googleusercontent.com/proxy/YOwIr-oXbZ7YrTllrg6mPlacmwy8PAlF0S42jYzIlteCh34wFrs_D_zHNIeoBp36IMPG1o8enR4pDe2UoJW_zdO9zfK-A4IgHciWPX-iS2rxZv9n0r2pjYo-1cXBuoQ9-yPvLIHmLf5VNWuNqzRiQXJrX64P1YKPtYY4bGKgYg"); }
+
+section .c tr:nth-child(5) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg"); }
+
+section .c tr:nth-child(5) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zSUt4Q1qJW8_NoptikuujTxSlHqviolVBQ&s"); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 5 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+nav .c tr:nth-child(5) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(5) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(5) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+

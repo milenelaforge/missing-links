@@ -1,0 +1,107 @@
+/* LIGNE 19 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+section .b tr:nth-child(19) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .b tr:nth-child(19) th:nth-child(12){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .b tr:nth-child(19) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(19) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg");}
+
+section .b tr:nth-child(19) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");}
+    
+section .b tr:nth-child(19) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://s.tmimgcdn.com/scr/800x500/297400/texture-de-fond-noir-fonce_297412-original.jpg");}
+    
+section .b tr:nth-child(19) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/formes-texture-fond-geometrique-abstrait_1194-301824.jpg");}
+
+section .b tr:nth-child(19) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg");}
+
+section .b tr:nth-child(19) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg");}
+
+section .b tr:nth-child(19) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://lh6.googleusercontent.com/proxy/YOwIr-oXbZ7YrTllrg6mPlacmwy8PAlF0S42jYzIlteCh34wFrs_D_zHNIeoBp36IMPG1o8enR4pDe2UoJW_zdO9zfK-A4IgHciWPX-iS2rxZv9n0r2pjYo-1cXBuoQ9-yPvLIHmLf5VNWuNqzRiQXJrX64P1YKPtYY4bGKgYg");}
+
+section .b tr:nth-child(19) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnAo-ShheIFI8aTeYkOV-P_zl2MgDfFZMrQhoYfatasSrpQEpBodFrtMxeyUtfM5P9wI&usqp=CAU");}
+
+section .b tr:nth-child(19) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg");}
+
+section .b tr:nth-child(19) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg");}
+
+/* MODEL -----------------------------*/
+/* LIGNE 19 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+nav .b tr:nth-child(19) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(12){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(19) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(19) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(19) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(19) th:nth-child(11){
+    background-color: var(--color-main-nav); }

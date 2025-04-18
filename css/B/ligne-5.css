@@ -1,0 +1,108 @@
+/* LIGNE 5 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(5) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .b tr:nth-child(5) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+section .b tr:nth-child(5) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+    
+section .b tr:nth-child(5) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+    
+section .b tr:nth-child(5) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .b tr:nth-child(5) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+section .b tr:nth-child(5) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/7f7f7f.png?static=true");}
+    
+section .b tr:nth-child(5) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+section .b tr:nth-child(5) th:nth-child(12){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+section .b tr:nth-child(5) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(5) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0=");}
+
+section .b tr:nth-child(5) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg");}
+    
+section .b tr:nth-child(5) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1314384576/fr/photo/texture-en-m%C3%A9tal-noir-pour-le-fond.jpg?s=612x612&w=0&k=20&c=c4qG68CdJ0ls7RySIwV-Yc87hq6aG7gp7n-zjGiws84=");}
+
+/* MODEL -----------------------------*/
+/* LIGNE 5 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(5) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(12){
+    background-color: var(--color-second-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(5) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(5) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(5) th:nth-child(3){
+    background-color: var(--color-main-nav); }

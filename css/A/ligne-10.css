@@ -1,0 +1,115 @@
+/* LIGNE 10 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(10) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .a tr:nth-child(10) th:nth-child(5){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+section .a tr:nth-child(10) th:nth-child(6){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .a tr:nth-child(10) th:nth-child(7){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+section .a tr:nth-child(10) th:nth-child(8){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/808080.png?static=true");}
+    
+section .a tr:nth-child(10) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+    
+section .a tr:nth-child(10) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(10) th:nth-child(1){
+    background-color: var(--color-main);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeYTYeIiXoRZy777q24G0Pd7j0NIHibBP0tp6Loy_YzXVod6mBlSH5Lx_ywBapxhhIxA&usqp=CAU");
+}
+
+section .a tr:nth-child(10) th:nth-child(2){
+    background-color: var(--color-main);
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg");
+}
+
+section .a tr:nth-child(10) th:nth-child(3){
+     background-color: var(--color-main);
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg");
+}
+
+section .a tr:nth-child(10) th:nth-child(11){
+    background-color: var(--color-main);
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");
+}
+
+section .a tr:nth-child(10) th:nth-child(12){
+    background-color: var(--color-main);
+    background-image: url("https://img.freepik.com/photos-gratuite/plancher-bois-noir_53876-89522.jpg?semt=ais_hybrid&w=740");
+}
+
+section .a tr:nth-child(10) th:nth-child(13){
+    background-color: var(--color-main);
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg");
+}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 10 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+
+nav .a tr:nth-child(10) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(5){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(6){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(7){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(8){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(10) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(10) th:nth-child(13){
+    background-color: var(--color-main-nav); }

@@ -1,0 +1,118 @@
+/* LIGNE 2 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(2) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+
+section .a tr:nth-child(2) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+
+section .a tr:nth-child(2) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");}
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .a tr:nth-child(2) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://media.cdnws.com/_i/201648/816/838/19/cuir-noir-charbon.jpeg");
+}
+
+section .a tr:nth-child(2) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg");
+}
+
+section .a tr:nth-child(2) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-black-background-light-simple-image_556933.jpg");
+}
+
+section .a tr:nth-child(2) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/plancher-bois-noir_53876-89522.jpg?semt=ais_hybrid&w=740");
+}
+
+section .a tr:nth-child(2) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://s.tmimgcdn.com/scr/800x500/297400/texture-de-fond-noir-fonce_297412-original.jpg");
+}
+
+section .a tr:nth-child(2) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/formes-texture-fond-geometrique-abstrait_1194-301824.jpg");
+}
+
+section .a tr:nth-child(2) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://emotions-numeriques.com/wp-content/uploads/2017/04/srjc9512.jpg?w=640");
+}
+
+section .a tr:nth-child(2) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/vecteurs-libre/texture-fond-noir_78370-339.jpg");
+}
+
+section .a tr:nth-child(2) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-premium/ressource-graphique-fond-effet-marbre-colore_236836-8073.jpg?semt=ais_hybrid");
+}
+
+section .a tr:nth-child(2) th:nth-child(13){
+    background-color: var(--color-main); 
+    background-image: url("https://img3.wallspic.com/previews/4/9/4/8/7/178494/178494-lumiere-graphisme-purple-blue-noir-550x310.jpg");
+}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 2 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(2) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(2){
+    background-color: var(--color-second-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .a tr:nth-child(2) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(12){
+    background-color: var(--color-main-nav); }
+
+nav .a tr:nth-child(2) th:nth-child(13){
+    background-color: var(--color-main-nav); }

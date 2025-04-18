@@ -1,0 +1,99 @@
+/* LIGNE 1 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(1) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://color-hex.org/colors/808080.png");}
+    
+section .c tr:nth-child(1) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/808080.png");}
+    
+section .c tr:nth-child(1) th:nth-child(3){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(1) th:nth-child(4){
+    background-color: var(--color-second); 
+    background-image: url("https://encycolorpedia.fr/808080.png");}
+    
+section .c tr:nth-child(1) th:nth-child(9){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTDcDtX6C-VzD5BKvweGXwmebCjppFAWrFhXd54v45-bPfnAcP9SvR-ri9MDQuPh6qpQ&usqp=CAU");}
+    
+section .c tr:nth-child(1) th:nth-child(10){
+    background-color: var(--color-second); 
+    background-image: url("https://webdi.fr/img/couleurs/7f7f7f.png");}
+    
+section .c tr:nth-child(1) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://st2.depositphotos.com/1790696/44532/i/450/depositphotos_445328246-stock-photo-grey-grunge-digital-wallpaper-painted.jpg");}
+    
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(1) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-black-background-light-simple-image_556933.jpg");}
+
+section .c tr:nth-child(1) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/plancher-bois-noir_53876-89522.jpg?semt=ais_hybrid&w=740");}
+
+section .c tr:nth-child(1) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://s.tmimgcdn.com/scr/800x500/297400/texture-de-fond-noir-fonce_297412-original.jpg");}
+
+section .c tr:nth-child(1) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-gratuite/formes-texture-fond-geometrique-abstrait_1194-301824.jpg");}
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 1 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(1) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(2){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(3){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(4){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(9){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(10){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(1) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(1) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+

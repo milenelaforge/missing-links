@@ -1,0 +1,94 @@
+/* LIGNE 14 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(14) th:nth-child(1){
+    background-color: var(--color-second); 
+    background-image: url("https://preview.colorkit.co/color/80807F.png?static=true");}
+    
+section .c tr:nth-child(14) th:nth-child(2){
+    background-color: var(--color-second); 
+    background-image: url("https://www.colorhexa.com/7f7f7f.png");}
+    
+section .c tr:nth-child(14) th:nth-child(11){
+    background-color: var(--color-second); 
+    background-image: url("https://st5.depositphotos.com/32273002/64436/i/450/depositphotos_644368314-stock-photo-abstract-background-space-text.jpg");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .c tr:nth-child(14) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://dcdn-us.mitiendanube.com/stores/391/012/products/importados-negro-absoluto-1-590x59011-193df85dddafec81ea15211321960918-640-0.jpg"); }
+
+section .c tr:nth-child(14) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg"); }
+
+section .c tr:nth-child(14) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://img.freepik.com/photos-premium/ressource-graphique-fond-effet-marbre-colore_236836-8073.jpg?semt=ais_hybrid"); }
+
+section .c tr:nth-child(14) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://preview.redd.it/what-is-this-glowing-on-side-its-black-screen-wallpaper-v0-o85wc701bc3c1.jpg?width=640&crop=smart&auto=webp&s=3c4626984c36acd02435457b9afb0c79872b5cc3"); }
+
+section .c tr:nth-child(14) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://www.cupastone.pt/wp-content/uploads/sites/4/2022/05/NEGRO_ABSOLUTO_PRODUCTO_WEB.jpg"); }
+
+section .c tr:nth-child(14) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg"); }
+
+section .c tr:nth-child(14) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://s.tmimgcdn.com/scr/800x500/297400/texture-de-fond-noir-fonce_297412-original.jpg"); }
+
+section .c tr:nth-child(14) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg"); }
+
+
+/* MODEL -----------------------------*/
+/* LIGNE 14 ---------------------------*/
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(14) th:nth-child(1){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(2){
+    background-color: var(--color-second-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(11){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .c tr:nth-child(14) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .c tr:nth-child(14) th:nth-child(10){
+    background-color: var(--color-main-nav); }

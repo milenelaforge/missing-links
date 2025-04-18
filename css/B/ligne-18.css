@@ -1,0 +1,109 @@
+/* LIGNE 18 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(18) th:nth-child(13){
+    background-color: var(--color-second); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfJMc_3W0a1XE0a2CuwQ6cbL4p2S9mCm74A&s");}
+    
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+section .b tr:nth-child(18) th:nth-child(1){
+    background-color: var(--color-main); 
+    background-image: url("https://www.gali-art.com/img/cms/Noir.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(2){
+    background-color: var(--color-main); 
+    background-image: url("https://www.listonegiordano.com/wp-content/uploads/2021/09/Fabrique-Fumee-Noir-Parquet-Natural-Genius1920x1200-1.jpg");}
+    
+section .b tr:nth-child(18) th:nth-child(3){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/3475817/49694/i/450/depositphotos_496945684-stock-photo-squares-textured-black-abstract-background.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(4){
+    background-color: var(--color-main); 
+    background-image: url("https://www.publicdomainpictures.net/pictures/40000/nahled/black-background-1365087945eJf.jpg");}
+    
+section .b tr:nth-child(18) th:nth-child(5){
+    background-color: var(--color-main); 
+    background-image: url("https://www.madeintissus.fr/26016-product_miniature/tissu-plumetis-vle-de-coton-noir.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(6){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zSUt4Q1qJW8_NoptikuujTxSlHqviolVBQ&s");}
+
+section .b tr:nth-child(18) th:nth-child(7){
+    background-color: var(--color-main); 
+    background-image: url("https://i.pinimg.com/236x/e3/37/55/e33755070afc5933305428bdd5dbf025.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(8){
+    background-color: var(--color-main); 
+    background-image: url("https://st2.depositphotos.com/4653319/8728/i/450/depositphotos_87285818-stock-photo-black-and-white-ornament-m.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(9){
+    background-color: var(--color-main); 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeYTYeIiXoRZy777q24G0Pd7j0NIHibBP0tp6Loy_YzXVod6mBlSH5Lx_ywBapxhhIxA&usqp=CAU");}
+
+section .b tr:nth-child(18) th:nth-child(10){
+    background-color: var(--color-main); 
+    background-image: url("https://pic.stonecontact.com/picture/20155/119218/negro-absoluto-p339907-1b.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(11){
+    background-color: var(--color-main); 
+    background-image: url("https://www.democratikdesign.com/media/wysiwyg/Noir_mat.jpg");}
+
+section .b tr:nth-child(18) th:nth-child(12){
+    background-color: var(--color-main); 
+    background-image: url("https://media.istockphoto.com/id/1133405969/fr/photo/fond-noir-mat.jpg?s=612x612&w=0&k=20&c=nOCzw2Tw7IFXxrHCZVmDRWOmQJQ8EkfNhF5L8bq-Ek0=");}
+
+/* MODEL -----------------------------*/
+/* LIGNE 18 ---------------------------*/
+
+
+/*IMAGES BLANCHES --------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(18) th:nth-child(13){
+    background-color: var(--color-second-nav); }
+
+/*IMAGES NOIRES ----------------------*/
+/*------------------------------------*/
+
+nav .b tr:nth-child(18) th:nth-child(1){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(2){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(18) th:nth-child(3){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(4){
+    background-color: var(--color-main-nav); }
+    
+nav .b tr:nth-child(18) th:nth-child(5){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(6){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(7){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(8){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(9){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(10){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(11){
+    background-color: var(--color-main-nav); }
+
+nav .b tr:nth-child(18) th:nth-child(12){
+    background-color: var(--color-main-nav); }
