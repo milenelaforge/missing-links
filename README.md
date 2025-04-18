@@ -29,6 +29,7 @@ En arrivant sur le site, vous découvrez les lettres telles qu’elles sont aujo
 Pour voir le modèle d’origine, cliquez sur l’icône œil en haut à droite.
 
 Le site est mis en ligne en mai 2025.  
+![Aperçu du site lors du lancement](archive/250418_missing-links_archive.png)
 Une archive des transformations et altérations sera conservée.
 
 ---
